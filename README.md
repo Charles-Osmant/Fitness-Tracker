@@ -1,2 +1,2 @@
 # Fitness-Tracker
-A personal Fitness Tracker for me
+A desktop fitness and macro tracking app built with React and Electron
